@@ -1,4 +1,4 @@
-# RFM-Segmentation-in-MySQL
+#  Customer Analysis (RFM-Segmentation)
 Customer segmentation using SQL (RFM model) to identify loyal, at-risk, and churned customers.
 
 Question-01: Analyse Customer Lifecycle Value (CLV) with regards to (RFM Model) Recency, Frequency and Monetary Value
